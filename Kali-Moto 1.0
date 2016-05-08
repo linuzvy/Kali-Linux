@@ -1,0 +1,3 @@
+deb http://old.kali.org/kali moto main non-free contrib
+# For source package access, uncomment the following line
+# deb-src http://old.kali.org/kali moto main non-free contrib
